@@ -12,10 +12,12 @@ Easy to learn
 De speler begrijpt snel door de icoontjes
 
 Hard to master
-Het wordt uitdagend door hoe snel het word
+Het wordt uitdagend door hoe snel het gaat.
+extra fun, dus.
 
 Waarom blijft dit leuk?
 Deze actie blijft leuk om te herhalen omdat het elke keer andere knoppen zijn
 
 Juiciness
 Ik maak deze actie satisfying door een hogere streak betekent betere muziek/wordt sneller.
+
