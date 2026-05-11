@@ -1,8 +1,9 @@
 Core mechanic
 Mijn core mechanic is dat de speler naar het volgende blok gaat door een knop (bijv, arrow keys) te klikken.
+dit zoorgt voor een sound, en dan spawnt het volgende blok in. dit gaat zo door en door.
 
 Input
-De speler doet dit door een van vier knoppen te drukken
+De speler doet dit door een van vier knoppen te drukken.
 
 Doel
 De speler probeert een zo hoog mogelijke score te krijgen
